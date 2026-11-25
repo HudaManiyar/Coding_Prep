@@ -20,3 +20,4 @@ Solutions are grouped by the study plan's sections:
 |---|---|---|---|---|---|
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | select | WHERE with OR | [sql](leetcode-sql-50/select/595_big_countries.sql) |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Easy | basic_joins | LEFT JOIN + IS NULL check | [sql](leetcode-sql-50/basic_joins/577_employee_bonus.sql) |
+| 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | Easy | select | String length filter (CHAR_LENGTH) | [sql](leetcode-sql-50/select/1683_invalid_tweets.sql) |
