@@ -19,3 +19,4 @@ Solutions are grouped by the study plan's sections:
 | # | Problem | Difficulty | Topic | Pattern | Solution |
 |---|---|---|---|---|---|
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | select | WHERE with OR | [sql](leetcode-sql-50/select/595_big_countries.sql) |
+| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Easy | basic_joins | LEFT JOIN + IS NULL check | [sql](leetcode-sql-50/basic_joins/577_employee_bonus.sql) |
