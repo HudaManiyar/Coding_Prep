@@ -2,7 +2,8 @@
 -- Link:       https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/
 -- Difficulty: Easy
 -- Pattern:    LEFT JOIN anti-join + GROUP BY COUNT
--- Notes:      Tricky in understanding the question, the second part that is count of transaction
+-- Notes:      The question was tricky to understand, especially the second part:
+--             counting the visits that had no transactions.
 
 SELECT v.customer_id, COUNT(v.visit_id) AS count_no_trans
 FROM Visits v LEFT JOIN Transactions t
