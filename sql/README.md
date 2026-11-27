@@ -29,3 +29,4 @@ Solutions are grouped by the study plan's sections:
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | Easy | advanced_select_joins | CASE WHEN (triangle inequality) | [sql](leetcode-sql-50/advanced_select_joins/610_triangle_judgement.sql) |
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | Easy | advanced_string_functions | String functions (UPPER, LOWER, LEFT, SUBSTRING, CONCAT) | [sql](leetcode-sql-50/advanced_string_functions/1667_fix_names_in_a_table.sql) |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | select | WHERE with AND | [sql](leetcode-sql-50/select/1757_recyclable_and_low_fat_products.sql) |
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | select | WHERE with NULL handling (!= OR IS NULL) | [sql](leetcode-sql-50/select/584_find_customer_referee.sql) |
