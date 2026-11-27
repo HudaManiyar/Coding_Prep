@@ -32,3 +32,4 @@ Solutions are grouped by the study plan's sections:
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | select | WHERE with NULL handling (!= OR IS NULL) | [sql](leetcode-sql-50/select/584_find_customer_referee.sql) |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | select | SELECT DISTINCT + comparing two columns | [sql](leetcode-sql-50/select/1148_article_views_i.sql) |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | basic_joins | Outer join (RIGHT JOIN) | [sql](leetcode-sql-50/basic_joins/1378_replace_employee_id_with_the_unique_identifier.sql) |
+| 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | basic_joins | INNER JOIN | [sql](leetcode-sql-50/basic_joins/1068_product_sales_analysis_i.sql) |
