@@ -1,0 +1,9 @@
+-- Problem:    1148. Article Views I
+-- Link:       https://leetcode.com/problems/article-views-i/
+-- Difficulty: Easy
+-- Pattern:    SELECT DISTINCT + comparing two columns in WHERE
+-- Notes:      NIL
+
+SELECT DISTINCT(author_id) AS id FROM Views
+WHERE author_id = viewer_id
+ORDER BY author_id
