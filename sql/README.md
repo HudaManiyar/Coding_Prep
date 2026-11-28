@@ -34,3 +34,4 @@ Solutions are grouped by the study plan's sections:
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | basic_joins | Outer join (RIGHT JOIN) | [sql](leetcode-sql-50/basic_joins/1378_replace_employee_id_with_the_unique_identifier.sql) |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | basic_joins | INNER JOIN | [sql](leetcode-sql-50/basic_joins/1068_product_sales_analysis_i.sql) |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | basic_joins | Self join on a date condition | [sql](leetcode-sql-50/basic_joins/197_rising_temperature.sql) |
+| 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | Easy | basic_joins | CROSS JOIN + LEFT JOIN + COUNT(column) | [sql](leetcode-sql-50/basic_joins/1280_students_and_examinations.sql) |
